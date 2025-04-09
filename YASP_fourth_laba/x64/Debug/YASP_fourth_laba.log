@@ -1,0 +1,29 @@
+﻿  DEQUE.cpp
+C:\Users\TK\source\repos\YASP_fourth_laba\YASP_fourth_laba_1\YASP_fourth_laba\DEQUE.cpp(24,28): warning C4244: аргумент: преобразование "double" в "_Ty", возможна потеря данных
+C:\Users\TK\source\repos\YASP_fourth_laba\YASP_fourth_laba_1\YASP_fourth_laba\DEQUE.cpp(24,28): warning C4244:         with
+C:\Users\TK\source\repos\YASP_fourth_laba\YASP_fourth_laba_1\YASP_fourth_laba\DEQUE.cpp(24,28): warning C4244:         [
+C:\Users\TK\source\repos\YASP_fourth_laba\YASP_fourth_laba_1\YASP_fourth_laba\DEQUE.cpp(24,28): warning C4244:             _Ty=int
+C:\Users\TK\source\repos\YASP_fourth_laba\YASP_fourth_laba_1\YASP_fourth_laba\DEQUE.cpp(24,28): warning C4244:         ]
+C:\Users\TK\source\repos\YASP_fourth_laba\YASP_fourth_laba_1\YASP_fourth_laba\DEQUE.cpp(49,53): warning C4244: аргумент: преобразование "double" в "_Ty", возможна потеря данных
+C:\Users\TK\source\repos\YASP_fourth_laba\YASP_fourth_laba_1\YASP_fourth_laba\DEQUE.cpp(49,53): warning C4244:         with
+C:\Users\TK\source\repos\YASP_fourth_laba\YASP_fourth_laba_1\YASP_fourth_laba\DEQUE.cpp(49,53): warning C4244:         [
+C:\Users\TK\source\repos\YASP_fourth_laba\YASP_fourth_laba_1\YASP_fourth_laba\DEQUE.cpp(49,53): warning C4244:             _Ty=int
+C:\Users\TK\source\repos\YASP_fourth_laba\YASP_fourth_laba_1\YASP_fourth_laba\DEQUE.cpp(49,53): warning C4244:         ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\algorithm(3769,24): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "DEQUE.cpp")
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\algorithm(3769,24):
+      контекст создания экземпляра шаблона (сначала самый старый)
+          C:\Users\TK\source\repos\YASP_fourth_laba\YASP_fourth_laba_1\YASP_fourth_laba\DEQUE.cpp(36,5):
+          выполняется компиляция ссылки на экземпляр шаблон функции "_OutIt std::transform<std::_Deque_iterator<std::_Deque_val<std::_Deque_simple_types<_Ty>>>,std::back_insert_iterator<std::deque<_Ty,std::allocator<_Ty>>>,DEQUE::modify_transform::<lambda_1>>(const _InIt,const _InIt,_OutIt,_Fn)"
+          with
+          [
+              _OutIt=std::back_insert_iterator<std::deque<int,std::allocator<int>>>,
+              _Ty=int,
+              _InIt=std::_Deque_iterator<std::_Deque_val<std::_Deque_simple_types<int>>>,
+              _Fn=DEQUE::modify_transform::<lambda_1>
+          ]
+  
+  YASP_fourth_laba.cpp
+C:\Users\TK\source\repos\YASP_fourth_laba\YASP_fourth_laba_1\YASP_fourth_laba\YASP_fourth_laba.cpp(133,25): warning C4244: аргумент: преобразование "ULONGLONG" в "unsigned int", возможна потеря данных
+  Создание кода...
+  YASP_fourth_laba.vcxproj -> C:\Users\TK\source\repos\YASP_fourth_laba\YASP_fourth_laba_1\x64\Debug\YASP_fourth_laba.exe
